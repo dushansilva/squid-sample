@@ -38,9 +38,9 @@ import org.apache.http.util.EntityUtils;
  */
 public class App {
 
-    private static String PROXY_HOST = "54.254.200.94";
+    private static String PROXY_HOST = "";
     private static int PROXY_PORT = 3129;
-    private static String TARGET_HOST = "54.254.200.94";
+    private static String TARGET_HOST = "";
     private static int TARGET_PORT = 3002;
     private static String KEYSTORE = "./newkeystore.jks";
 
